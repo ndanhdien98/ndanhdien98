@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zi3n" alt="zi3n" /></a> </p>
 
-- 🔭 I’m currently working on **FTECH CO., LTD**
+- 🔭 I’m currently working as Security Engineer on **FTECH CO., LTD**
 
 - 🌱 I’m currently learning **Code, Hack and Style of life**
 
